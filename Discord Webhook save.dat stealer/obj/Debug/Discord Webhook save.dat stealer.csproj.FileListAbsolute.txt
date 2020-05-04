@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\bin\Debug\Discord Webhook save.dat stealer.exe.config
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\bin\Debug\Discord Webhook save.dat stealer.exe
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\bin\Debug\Discord Webhook save.dat stealer.pdb
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\obj\Debug\Discord Webhook save.dat stealer.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\obj\Debug\Discord Webhook save.dat stealer.exe
+C:\Users\Stefan\source\repos\Discord Webhook save.dat stealer\Discord Webhook save.dat stealer\obj\Debug\Discord Webhook save.dat stealer.pdb
